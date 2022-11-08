@@ -1,9 +1,7 @@
-/* [1] */
+/* [0] */
 @font-face {
-  font-family: 'Noto Color Emoji';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.0.woff2) format('woff2');
-  unicode-range: U+1f1e6-1f1ff;
+	font-family:samsungone;
+	font-style:normal;
+	font-weight:400;
+	src:url('https://fonts.bsgglobal.com/fontapp/SamsungOneKoreanNoF-400.woff2') format('woff2')
 }
