@@ -1,0 +1,14 @@
+/* [0] */
+@font-face {
+	font-family:samsungone;
+	font-style:normal;
+	font-weight:400;
+	src:url(SamsungOneKoreanNoF-400.woff2) format('woff2')
+}
+
+/* [1] */	
+@font-face{font-family:samsungone;
+	font-style:normal;
+	font-weight:700;
+	src: url(SamsungOneKoreanNoF-700.woff2) format('woff2')
+}
